@@ -1,7 +1,7 @@
-## Java-Data-Structure
-Placement Training Program – 15 Days
-This repository programs from the 15-day Placement Training Program conducted at my college.
-The training focused on improving technical skills to prepare for campus placements.
+##  Java-Data-Structure
+- Placement Training Program – 15 Days
+- This repository programs from the 15-day Placement Training Program conducted at my college.
+- The training focused on improving technical skills to prepare for campus placements.
 
 
 ## 📅 Duration
